@@ -26,13 +26,13 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_leokrindges/)](https://www.instagram.com/_leokrindges/)
+
 [![Linkedin](https://img.shields.io/badge/-LinkeIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leokrindges/)](https://www.linkedin.com/in/leokrindges/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_leokrindges/)](https://www.instagram.com/_leokrindges/)
 [![Gmail Badge](https://img.shields.io/badge/-krindgesleonardo3@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krindgesleonardo3@gmail.com?subject=Questions)](mailto:krindgesleonardo3@gmail.com?subject=Questions)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=GitHub&style=social)](https://github.com/Leokrindges)
 
 <div>
 <a href="https://github.com/Leokrindges">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leokrindges&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Leokrindges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
