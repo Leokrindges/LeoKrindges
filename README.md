@@ -38,3 +38,8 @@
 <a href="https://github.com/Leokrindges">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leokrindges&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+**Instrutor de informatica (Estagio)** \
+[**Mega System Informatica**](https://instagram.com/megasysteminfo?igshid=MWZjMTM2ODFkZg==) • Contract \
+Linguagens & Tecnologias: `[AutoCad 2d e 3D`, `Photoshop`, `CorelDRAW`, `Manutenção de cumputadores`\
+
