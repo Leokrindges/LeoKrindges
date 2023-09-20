@@ -1,6 +1,7 @@
-<h3>Sobre mim</h3>
+<h3>Sobre mim!</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
+- 🎓 Graduando em Analise e Desenvolvimento de Sistemas na <a href="(https://www.univates.br/)">UNIVATES</a>.
+- 🎓 Formação em Desenvolvimento WEB FULL STACK na <a href="(https://www.growdev.com.br/)">Growdev</a>.
+- 💼 Trabalhando como Metalurgico na <a href="(https://www.tramontina.com.br/)">EMPRESA</a>
 - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
