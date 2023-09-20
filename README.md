@@ -4,7 +4,7 @@
 - 🎓 Graduando em ANALISE E DESENVOLVIMENTO DE SISTEMAS na <a href="https://www.univates.br/" target="_blank">UNIVATES</a>.
 - 🎓 Curosando formação em Desenvolvimento WEB FULL STACK na <a href="https://www.growdev.com.br/" target="_blank">GROWDEV</a>.
 - 💼 Trabalhando como Metalurgico na <a href="https://www.tramontina.com.br/" target="_blank">TRAMONTINA</a>
-- 🌱 &nbsp; Aprendendo mais sobre *HTML5 CSS3, JAVASCRIPT, GIT, GITHUB, JAVA, BOOTSTRAP, POSTGRESQL.
+- 🌱 Aprendendo mais sobre *HTML5 CSS3, JAVASCRIPT, GIT, GITHUB, JAVA, BOOTSTRAP, POSTGRESQL.
 -
 - <h3>Minhas Hard-Skills</h3>
 
@@ -33,3 +33,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkeIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leokrindges/)](https://www.linkedin.com/in/leokrindges/)
 [![Gmail Badge](https://img.shields.io/badge/-krindgesleonardo3@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krindgesleonardo3@gmail.com?subject=Questions)](mailto:krindgesleonardo3@gmail.com?subject=Questions)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=GitHub&style=social)](https://github.com/Leokrindges)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![AnushkaWijegoonawardana97 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+
