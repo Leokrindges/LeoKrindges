@@ -25,6 +25,7 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-333333?style=flat&logo=apache-netbeans-ide&logoColor=white)
 
 <h3>Onde me encontrar</h3>
+.[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&https://www.instagram.com/_leokrindges/)](https://www.instagram.com/_leokrindges/)
 
 [![Linkedin](https://img.shields.io/badge/-LinkeIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leokrindges/)](https://www.linkedin.com/in/leokrindges/)
 [![Gmail Badge](https://img.shields.io/badge/-krindgesleonardo3@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krindgesleonardo3@gmail.com?subject=Questions)](mailto:krindgesleonardo3@gmail.com?subject=Questions)
