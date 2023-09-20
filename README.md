@@ -35,7 +35,7 @@
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=GitHub&style=social)](https://github.com/Leokrindges)
 
 ![GitHub language count](https://img.shields.io/github/languages/count/Leokrindges/leokrindges/edit/main/README.md)
-![GitHub top language](https://img.shields.io/github/languages/top/SEU_USUARIO/SEU_REPOSITORIO)
+![GitHub top language](https://img.shields.io/github/languages/top/Leokrindges/leokrindges/edit/main/README.md)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=README&theme=algolia)](https://github.com/Leokrindges//github-readme-stats)
