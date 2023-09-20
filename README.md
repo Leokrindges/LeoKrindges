@@ -6,7 +6,7 @@
 - 💼 Trabalhando como Metalurgico na <a href="https://www.tramontina.com.br/" target="_blank">TRAMONTINA</a>
 - 🌱 &nbsp; Aprendendo mais sobre *HTML5 CSS3, JAVASCRIPT, GIT, GITHUB, JAVA, BOOTSTRAP, POSTGRESQL.
 -
-- <h3>Minhas Skills</h3>
+- <h3>Minhas Hard-Skills</h3>
 
 **Aplicações e dados**
 
