@@ -1,13 +1,13 @@
-<h3>Sobre mim!</h3>
+<h3>Olá, como vai?</h3>
 <p>
-  Estou no processo de transição de carreira e vou me tornar um Desenvolvedor Web Full Stack.🚀🍀
+   Me chamo Leonardo Krindges e estou no processo de transição de carreira e vou me tornar um Desenvolvedor Web Full Stack.🚀🍀
 </p>
  
 - 🎓 Graduando em ANALISE E DESENVOLVIMENTO DE SISTEMAS na <a href="https://www.univates.br/" target="_blank">UNIVATES</a>.
 - 🎓 Curosando formação em Desenvolvimento WEB FULL STACK na <a href="https://www.growdev.com.br/" target="_blank">GROWDEV</a>.
 - 💼 Trabalhando como Metalurgico na <a href="https://www.tramontina.com.br/" target="_blank">TRAMONTINA</a>.
 - 🌱 Conhecimento em: HTML5 CSS3, JAVASCRIPT, GIT, GITHUB, JAVA, BOOTSTRAP, POSTGRESQL.
-- 🚴🐠Como hobby prático muito a pescária, e adoro pedalar.
+- 🚴🐠Como hobby gosto muito de pescária, e adoro pedalar.
   
 <h3>Minhas Hard-Skills</h3>
 
@@ -28,7 +28,6 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-333333?style=flat&logo=apache-netbeans-ide&logoColor=white)
 
 <h3>Onde me encontrar</h3>
-
 
 [![Linkedin](https://img.shields.io/badge/-LinkeIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leokrindges/)](https://www.linkedin.com/in/leokrindges/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_leokrindges/)](https://www.instagram.com/_leokrindges/)
