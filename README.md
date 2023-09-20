@@ -34,4 +34,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-krindgesleonardo3@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krindgesleonardo3@gmail.com?subject=Questions)](mailto:krindgesleonardo3@gmail.com?subject=Questions)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=GitHub&style=social)](https://github.com/Leokrindges)
 
-![Linguagens mais usadas](https://img.shields.io/github/languages/top/Leokrindges/leokrindges)
+<img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeli&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
