@@ -42,5 +42,5 @@
    
 **Instrutor de informatica (Estagio)** \
 [**Mega System Informatica**](https://instagram.com/megasysteminfo?igshid=MWZjMTM2ODFkZg==) • Estágio/contrato \
-Tecnologias: `[AutoCad 2d e 3D`, `Photoshop`, `CorelDRAW`, `Pacote Office`, `Manutenção de cumputadores`\
+Tecnologias: `AutoCad 2d e 3D`, `Photoshop`, `CorelDRAW`, `Pacote Office`, `Manutenção de cumputadores`
 
