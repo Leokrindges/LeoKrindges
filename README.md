@@ -34,5 +34,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-krindgesleonardo3@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krindgesleonardo3@gmail.com?subject=Questions)](mailto:krindgesleonardo3@gmail.com?subject=Questions)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=GitHub&style=social)](https://github.com/Leokrindges)
 
-[![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)
 
