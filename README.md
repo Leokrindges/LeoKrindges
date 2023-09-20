@@ -1,4 +1,4 @@
-<h3>Olá, como vai?</h3>
+<h2>Olá, como vai?</h2>
 <p>
    Me chamo Leonardo Krindges e estou no processo de transição de carreira e vou me tornar um Desenvolvedor Web Full Stack.🚀🍀
 </p>
