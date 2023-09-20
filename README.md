@@ -1,15 +1,13 @@
 <h3>Sobre mim!</h3>
 <p>
- - 🤔Atualmente trabalho na indústria metalúrgica, sou graduando em Analise e Desenvolvimento de Sistemas pela Universidade do Vale do Taquari - UNIVATES, e também curso Desenvolvimento Web Full Stack pela Growdev.🎓📕
-</p>
-<p>
-  A tecnologia da informação é realidade em empresas de todos os portes. Hoje ela é parte importante e está presente na maioria dos processos de uma empresa, com a TI é possível fazer uma gestão mais assertiva e encontrar soluções inovadoras, por conseguinte, estou no processo de transição de carreira e vou me tornar um Desenvolvedor Web Full Stack.🚀🍀
+  Estou no processo de transição de carreira e vou me tornar um Desenvolvedor Web Full Stack.🚀🍀
 </p>
  
 - 🎓 Graduando em ANALISE E DESENVOLVIMENTO DE SISTEMAS na <a href="https://www.univates.br/" target="_blank">UNIVATES</a>.
 - 🎓 Curosando formação em Desenvolvimento WEB FULL STACK na <a href="https://www.growdev.com.br/" target="_blank">GROWDEV</a>.
-- 💼 Trabalhando como Metalurgico na <a href="https://www.tramontina.com.br/" target="_blank">TRAMONTINA</a>
-- 🌱 Aprendendo mais sobre HTML5 CSS3, JAVASCRIPT, GIT, GITHUB, JAVA, BOOTSTRAP, POSTGRESQL.
+- 💼 Trabalhando como Metalurgico na <a href="https://www.tramontina.com.br/" target="_blank">TRAMONTINA</a>.
+- 🌱 Conhecimento em: HTML5 CSS3, JAVASCRIPT, GIT, GITHUB, JAVA, BOOTSTRAP, POSTGRESQL.
+- 🚴🐠Como hobby prático muito a pescária, e adoro pedalar.
   
 <h3>Minhas Hard-Skills</h3>
 
