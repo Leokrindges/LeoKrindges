@@ -28,6 +28,6 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![NetBeans](https://img.shields.io/badge/-Netbeans-333333?style=flat&logo=netbeans-ide&logoColor=2C2255)
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leokrindges/)](https://www.linkedin.com/in/leokrindges/)
+[![Linkedin](https://img.shields.io/badge/-LinkeIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leokrindges/)](https://www.linkedin.com/in/leokrindges/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/github/iuricode?label=follow&style=social)](https://github.com/Leokrindges)
