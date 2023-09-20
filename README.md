@@ -29,5 +29,5 @@
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leokrindges/)](https://www.linkedin.com/in/leokrindges/)
-[![Gmail Badge](https://img.shields.io/badge/-krindgesleonardo3@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:(https://mail.google.com/mail/u/0/#inbox))]((https://mail.google.com/mail/u/0/#inbox))
+[![Gmail Badge](https://img.shields.io/badge/-krindgesleonardo3@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krindgesleonardo3@gmail.com?subject=Questions))]((krindgesleonardo3@gmail.com?subject=Questions))
 [![GitHub](https://img.shields.io/github/GitHub/iuricode?label=follow&style=social)](https://github.com/Leokrindges)
