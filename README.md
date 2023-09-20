@@ -30,4 +30,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkeIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leokrindges/)](https://www.linkedin.com/in/leokrindges/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/github/iuricode?label=GitHub&style=social)](https://github.com/Leokrindges)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=GitHub&style=social)](https://github.com/Leokrindges)
