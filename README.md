@@ -7,7 +7,7 @@
 - 🎓 Cursando formação em Desenvolvimento WEB FULL STACK na <a href="https://www.growdev.com.br/" target="_blank">GROWDEV</a>.
 - 💼 Trabalhando como Metalurgico na <a href="https://www.tramontina.com.br/" target="_blank">TRAMONTINA</a>.
 - 🌱 Conhecimento em: HTML5 CSS3, JAVASCRIPT, GIT, GITHUB, JAVA, BOOTSTRAP, POSTGRESQL.
-- 🚴🐠Como hobby gosto muito de pescária, e adoro pedalar.
+- 🚴🐠Como hobby gosto muito de pescária e adoro pedalar.
   
 <h3>Minhas Hard-Skills</h3>
 
