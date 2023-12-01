@@ -34,6 +34,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-krindgesleonardo3@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krindgesleonardo3@gmail.com)](mailto:krindgesleonardo3@gmail.com?subject=)
 [![GitHub](https://img.shields.io/github/followers/leokrindges?label=GitHub&style=social)](https://github.com/Leokrindges)
 
+![Snake animation](https://github.com/Leokrindges/leokrindges/blob/output/github-contribution-grid-snake.svg)
+
 <div>
 <a href="https://github.com/Leokrindges">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leokrindges&layout=compact&langs_count=7&theme=dracula"/>
