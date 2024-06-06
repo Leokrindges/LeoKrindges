@@ -1,12 +1,12 @@
 <h1>Olá, como vai?</h1>
 <p>
-   Me chamo Leonardo Krindges, estou no processo de transição de carreira e vou me tornar um Desenvolvedor Web Full Stack.🚀🍀
+   Me chamo Leonardo Krindges, atuo como Desenvolvedor Web Full Stack.🚀🍀
 </p>
  
 - 🎓 Graduando em ANALISE E DESENVOLVIMENTO DE SISTEMAS na <a href="https://www.univates.br/" target="_blank">UNIVATES</a>.
 - 🎓 Cursando formação em Desenvolvimento WEB FULL STACK na <a href="https://www.growdev.com.br/" target="_blank">GROWDEV</a>.
-- 💼 Trabalhando como Metalurgico na <a href="https://www.tramontina.com.br/" target="_blank">TRAMONTINA</a>.
-- 🌱 Conhecimento em: HTML5 CSS3, JAVASCRIPT, NODE JS, EXPRESS, GIT, GITHUB, JAVA, BOOTSTRAP, POSTGRESQL.
+- 💼 Trabalhando como Desenvolvedor de sistemas na <a href="https://www.tramontina.com.br/" target="_blank">TRAMONTINA</a>.
+- 🌱 Conhecimento em: KAMBAN, HTML5, CSS3, JAVASCRIPT, TYPESCRIPT, JAVA, REACT.JS, NODE.JS, EXPRESS, POSTGRESQL, GIT, GITHUB, BOOTSTRAP,  GENERO BDL, INFORMIX SQL.
 - 🚴🐠Como hobby gosto muito de pescária e adoro pedalar.
   
 <h3>Minhas Hard-Skills</h3>
@@ -23,6 +23,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/6c6508f42e9e6e6a71d74d16180b1b05edcbc03a/topics/react/react.png"></code>
 
 **Ferramentas de desenvolvimento**
 
