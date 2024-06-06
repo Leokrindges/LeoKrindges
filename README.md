@@ -1,6 +1,6 @@
 <h1>Olá, como vai?</h1>
 <p>
-   Me chamo Leonardo Krindges, atuo como Desenvolvedor Web Full Stack.🚀🍀
+   Me chamo Leonardo Krindges, atuo como Desenvolvedor Full Stack.🚀🍀
 </p>
  
 - 🎓 Graduando em ANALISE E DESENVOLVIMENTO DE SISTEMAS na <a href="https://www.univates.br/" target="_blank">UNIVATES</a>.
