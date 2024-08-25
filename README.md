@@ -5,7 +5,7 @@
  
 - 🎓 Graduando em ANALISE E DESENVOLVIMENTO DE SISTEMAS na <a href="https://www.univates.br/" target="_blank">UNIVATES</a>.
 - 🎓 Cursando formação em Desenvolvimento WEB FULL STACK na <a href="https://www.growdev.com.br/" target="_blank">GROWDEV</a>.
-- 💼 Trabalhando como Desenvolvedor de sistemas na <a href="https://www.tramontina.com.br/" target="_blank">TRAMONTINA</a>.
+- 💼 Trabalhando como Desenvolvedor de sistemas na <a href="https://garupa.co/" target="_blank">GARUPA APP</a>.
 - 🌱 Conhecimento em: KAMBAN, HTML5, CSS3, JAVASCRIPT, TYPESCRIPT, JAVA, REACT.JS, NODE.JS, EXPRESS, POSTGRESQL, GIT, GITHUB, GITLAB, BOOTSTRAP,  GENERO BDL, INFORMIX SQL.
 - 🚴🐠Como hobby gosto muito de pescária e adoro pedalar.
   
