@@ -4,9 +4,9 @@
 </p>
  
 - 🎓 Graduando em ANALISE E DESENVOLVIMENTO DE SISTEMAS na <a href="https://www.univates.br/" target="_blank">UNIVATES</a>.
-- 🎓 Cursando formação em Desenvolvimento WEB FULL STACK na <a href="https://www.growdev.com.br/" target="_blank">GROWDEV</a>.
-- 💼 Trabalhando como Desenvolvedor de sistemas na <a href="https://garupa.co/" target="_blank">GARUPA APP</a>.
-- 🌱 Conhecimento em: KAMBAN, HTML5, CSS3, JAVASCRIPT, TYPESCRIPT, JAVA, REACT.JS, NODE.JS, EXPRESS, POSTGRESQL, GIT, GITHUB, GITLAB, BOOTSTRAP,  GENERO BDL, INFORMIX SQL.
+- 🎓 Formado em Desenvolvimento WEB FULL STACK na <a href="https://www.growdev.com.br/" target="_blank">GROWDEV</a>.
+- 💼 Trabalhando como Desenvolvedor Web Full Stack na <a href="https://garupa.co/" target="_blank">GARUPA APP</a>.
+- 🌱 Conhecimento em: PHP, LARAVEL, VUE.JS, DOCKER, SCRUM, KAMBAN, HTML5, CSS3, JAVASCRIPT, TYPESCRIPT, JAVA, REACT.JS, NODE.JS, EXPRESS, POSTGRESQL, GIT, GITHUB, BOOTSTRAP,  GENERO BDL, INFORMIX SQL.
 - 🚴🐠Como hobby gosto muito de pescária e adoro pedalar.
   
 <h3>Minhas Hard-Skills</h3>
@@ -15,6 +15,12 @@
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
@@ -23,8 +29,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"></code>
 
 **Ferramentas de desenvolvimento**
