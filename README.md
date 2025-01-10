@@ -3,7 +3,7 @@
    Me chamo Leonardo Krindges, atuo como Desenvolvedor Full Stack.🚀🍀
 </p>
  
-- 🎓 Graduando em ANALISE E DESENVOLVIMENTO DE SISTEMAS na <a href="https://www.univates.br/" target="_blank">UNIVATES</a>.
+- 🎓 Graduado em ANALISE E DESENVOLVIMENTO DE SISTEMAS na <a href="https://www.univates.br/" target="_blank">UNIVATES</a>.
 - 🎓 Formado em Desenvolvimento WEB FULL STACK na <a href="https://www.growdev.com.br/" target="_blank">GROWDEV</a>.
 - 💼 Trabalhando como Desenvolvedor Web Full Stack na <a href="https://loftytec.com/" target="_blank">LOFTYTEC SOFTWARES</a>.
 - 🌱 Conhecimento em: PHP, LARAVEL, VUE.JS, DOCKER, SCRUM, KAMBAN, HTML5, CSS3, JAVASCRIPT, TYPESCRIPT, NEST.JS, JAVA, REACT.JS, NODE.JS, EXPRESS, POSTGRESQL, GIT, GITHUB, BOOTSTRAP,  GENERO BDL, INFORMIX SQL.
