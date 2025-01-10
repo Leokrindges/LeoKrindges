@@ -5,8 +5,8 @@
  
 - 🎓 Graduando em ANALISE E DESENVOLVIMENTO DE SISTEMAS na <a href="https://www.univates.br/" target="_blank">UNIVATES</a>.
 - 🎓 Formado em Desenvolvimento WEB FULL STACK na <a href="https://www.growdev.com.br/" target="_blank">GROWDEV</a>.
-- 💼 Trabalhando como Desenvolvedor Web Full Stack na <a href="https://garupa.co/" target="_blank">GARUPA APP</a>.
-- 🌱 Conhecimento em: PHP, LARAVEL, VUE.JS, DOCKER, SCRUM, KAMBAN, HTML5, CSS3, JAVASCRIPT, TYPESCRIPT, JAVA, REACT.JS, NODE.JS, EXPRESS, POSTGRESQL, GIT, GITHUB, BOOTSTRAP,  GENERO BDL, INFORMIX SQL.
+- 💼 Trabalhando como Desenvolvedor Web Full Stack na <a href="https://loftytec.com/" target="_blank">LOFTYTEC SOFTWARES</a>.
+- 🌱 Conhecimento em: PHP, LARAVEL, VUE.JS, DOCKER, SCRUM, KAMBAN, HTML5, CSS3, JAVASCRIPT, TYPESCRIPT, NEST.JS, JAVA, REACT.JS, NODE.JS, EXPRESS, POSTGRESQL, GIT, GITHUB, BOOTSTRAP,  GENERO BDL, INFORMIX SQL.
 - 🚴🐠Como hobby gosto muito de pescária e adoro pedalar.
   
 <h3>Minhas Hard-Skills</h3>
